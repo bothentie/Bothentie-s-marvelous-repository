@@ -3,10 +3,33 @@
 
 <head></head>
 <title> My gay webpage </title>
-<p>This is my gay webpage ,as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
-<p> and this is one of my stupid image <img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/37B5/production/_89716241_thinkstockphotos-523060154.jpg">
+<body>
+
+<p>This is my gay webpage
+<form action=""method="">
+<br> 
+</br> 
+as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
+<p> and this is one of my stupid image 
+<br>
+</br>
+ <img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
+ <p> i am totally newbie so feel free to edit some changes for me ty <p>
+ <form action=""method=""><form action=""method="">
+<label for="gay">gay </label>
+<input type ="text" name="">
+<br></br>
+
+<input type="checkbox" name=""> Are you gay?<br>
+
+</form>
 
 
+<input type="submit" values="sumbit">
+
+
+
+</body>
 
 
 
