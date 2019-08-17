@@ -3,14 +3,27 @@
 
 <head></head>
 <title> My gay webpage </title>
-<body>
+<style>
 
-<p>This is my gay webpage
+body {background-color:lightblue;
+}
+</style>
+<body>
+<br></br>
+
+
+<p>This is my gay webpage</p>
+
+
 <form action=""method="">
+
 <br> 
+
 </br> 
-as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
-<p> and this is one of my stupid image 
+
+<font color="Frankie">as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
+</p>
+</font><p> and this is one of my stupid image 
 <br>
 </br>
  <img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
@@ -30,21 +43,3 @@ as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bot
 
 
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</html>
