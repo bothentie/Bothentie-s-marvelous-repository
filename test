@@ -1,18 +1,31 @@
 <!doctype html>
 <html>
 
-<head></head>
-<title> My gay webpage </title>
+<head>
+
+</head>
 <style>
 
 body {background-color:lightblue;
 }
+h1{
+color:blue;
+text-align:center;
+font-size:30px;
+}
+p{
+font-family:Monospace;
+text-align:center;
+font-size:20px
+}
+a{
+text-align:center;}
 </style>
 <body>
 <br></br>
 
 
-<p>This is my gay webpage</p>
+<h1>This is my gay webpage</h1>
 
 
 <form action=""method="">
@@ -20,9 +33,9 @@ body {background-color:lightblue;
 <br> 
 
 </br> 
+<font color="Frankie">
+<p>as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
 
-<font color="Frankie">as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
-</p>
 </font><p> and this is one of my stupid image 
 <br>
 </br>
@@ -38,8 +51,26 @@ body {background-color:lightblue;
 </form>
 
 
-<input type="submit" values="sumbit">
+<p><input type="submit" values="sumbit"></p>
 
 
 
 </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
