@@ -4,31 +4,12 @@
 <head>
 
 </head>
+
 <style>
 
-body {background-color:lightblue;
-}
-h1{
-color:blue;
-text-align:center;
-font-size:30px;
-}
-p{
-font-family:Monospace;
-text-align:center;
-font-size:20px
-}
-a{
-text-align:center;}
-</style><!doctype html>
-<html>
 
-<head>
 
-</head>
-<style>
-
-body {background-color:lightblue;
+body  {background-color:lightblue;
 }
 
 image
@@ -55,10 +36,17 @@ text-align:center;}
 <br></br>
 
 
-<marquee><h1>This is my gay webpage</h1>
+<marquee><h1>Welcome,This is my gay webpage</h1>
 </marquee>
 <p><image src="https://media.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif"width="500" ></p>
 <br></br>
+
+<h1>My First JavaScript</h1>
+
+<p><button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()"></p>
+Click me to display Date and Time.</button>
+<p id="demo"></p>
 <br></br>
 <br></br>
 <br></br>
@@ -71,8 +59,10 @@ text-align:center;}
 <br></br><br></br>
 
 <ul>
- <li> blah blah blah</li>
+<li> blah blah blah</li>
 <li> blah blah blah </li>
+
+<p> <samp>ERROR 404 NOT FOUND </samp></p>
 
 
 
@@ -82,14 +72,15 @@ text-align:center;}
 
 </br> 
 <font color="Frankie">
-<p>as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </a> </p
+<p >as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </a> </p
 
 </font>
-<p> and this is one of my stupid image 
+<p > and this is one of my stupid image 
+</p>
 <br>
 </br>
- <img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
- 
+ <p><img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
+ </p>
 <hr>
  <p> i am totally newbie so feel free to edit some changes for me ty <p>
  <form action=""method=""><form action=""method="">
@@ -108,7 +99,24 @@ text-align:center;}
 
 </body>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </html>
+
 
 
 
