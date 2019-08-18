@@ -20,12 +20,60 @@ font-size:20px
 }
 a{
 text-align:center;}
+</style><!doctype html>
+<html>
+
+<head>
+
+</head>
+<style>
+
+body {background-color:lightblue;
+}
+
+image
+{
+text-align:center;}
+#a{text-align:center;}
+li{color:blue;
+text-align:center;
+font-size:30px;}
+h1{
+color:blue;
+text-align:center;
+font-size:30px;
+}
+p{
+font-family:Monospace;
+text-align:center;
+font-size:20px
+}
+a{
+text-align:center;}
 </style>
 <body>
 <br></br>
 
 
-<h1>This is my gay webpage</h1>
+<marquee><h1>This is my gay webpage</h1>
+</marquee>
+<p><image src="https://media.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif"width="500" ></p>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br><br></br>
+<br></br><br></br>
+<br></br><br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br><br></br>
+
+<ul>
+ <li> blah blah blah</li>
+<li> blah blah blah </li>
+
 
 
 <form action=""method="">
@@ -34,16 +82,19 @@ text-align:center;}
 
 </br> 
 <font color="Frankie">
-<p>as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </p> </a>
+<p>as u can see my name is <a href="https://steamcommunity.com/id/Loliconsurl"> Bothentie </a> </p
 
-</font><p> and this is one of my stupid image 
+</font>
+<p> and this is one of my stupid image 
 <br>
 </br>
  <img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
+ 
+<hr>
  <p> i am totally newbie so feel free to edit some changes for me ty <p>
  <form action=""method=""><form action=""method="">
-<label for="gay">gay </label>
-<input type ="text" name="">
+<label for="">gay </label>
+<input type ="text" name="input the gay text">
 <br></br>
 
 <input type="checkbox" name=""> Are you gay?<br>
@@ -57,20 +108,36 @@ text-align:center;}
 
 </body>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
