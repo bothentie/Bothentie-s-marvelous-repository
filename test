@@ -74,8 +74,7 @@ article {
 </marquee>
 <p><image src="https://media.giphy.com/media/3o6vXTpomeZEyxufGU/giphy.gif"width="500" ></p>
 <br></br>
-<iframe width="420" height="345" src="https://www.youtube.com/watch?v=n-RrMcV6Iug&t=111s">
-</iframe>
+
 <h1>My First JavaScript</h1>
 
 <p><button type="button"
@@ -98,6 +97,8 @@ Click me to display Date and Time.</button>
 <li> blah blah blah </li> </article>
 
 <p> <samp>ERROR 404 NOT FOUND </samp></p>
+<img src="spin.gif" width="350 height="350"alt="spining pic> 
+<img src="spin2.gif"width="350" height="350"alt="also a spining pic>
 
 
 
@@ -114,16 +115,16 @@ Click me to display Date and Time.</button>
 </p>
 <br>
 </br>
- <p><img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50">
+ <p><img src="https://i2.kknews.cc/SIG=1hebudn/ctp-vzntr/605481oso6r44n1r9q782302r14898s5.jpg" width="50" height="50"alt="random pic>
  </p>
 <hr>
  <p> i am totally newbie so feel free to edit some changes for me ty <p>
  <form action=""method=""><form action=""method="">
-<label for="">gay </label>
-<input type ="text" name="input the gay text">
+<p><label for="">gay </label></p>
+<p><input type ="text" name="input the gay text"></p>
 <br></br>
 
-<input type="checkbox" name=""> Are you gay?<br>
+<p><input type="checkbox" name=""> Are you gay?<br></p>
 
 </form>
 
@@ -154,15 +155,6 @@ Click me to display Date and Time.</button>
 
 
 </html>
-
-
-
-
-
-
-
-
-
 
 
 
