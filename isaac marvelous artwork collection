@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<body style="background-color:lightgray;">
+<table style="width:100%"
+<head><h1>Isaac smart ass art work</h1>
+<style>
+h1{text-align:center}
+p {
+  width: 300px;
+  height: 100px;  
+  padding: 50px;
+  
+  text-align:center;
+}
+photo{
+  width: 300px;
+  height:300px;  
+  padding:200px;
+  border:3px solid red;
+  text-align:center;
+  
+
+}
+gay{
+background-color: lightblue;
+width :300px;
+height: 300px;
+}
+
+</style>
+</head>
+
+<body>
+<tr>
+<th><p>his final artwork</th>
+<th><p> </th>
+<th><p>original</th>
+</tr>
+<tr>
+<td><p><img src="jojospin.gif"width="300px" height="300px"></td>
+<td><p> </td>
+<td><p><img src="gfspin.gif"width="300px" height="300px"></td>
+</tr
+<
+</html>
